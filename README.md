@@ -4,6 +4,11 @@
 
 A reimagined Claude chat interface with annotation and highlighting tools — letting you mark up AI responses the way you'd mark up a doc.
 
+<p align="center">
+<img width="1512" height="904" alt="Screenshot 2026-05-04 at 10 25 28 PM" src="https://github.com/user-attachments/assets/496c9db7-a421-4e70-b006-7ae71ba9a933" />
+  <br/>
+<img width="1512" height="904" alt="Screenshot 2026-05-04 at 10 27 55 PM" src="https://github.com/user-attachments/assets/6b8711cb-fb07-4d23-8c29-d1864d94bdfe" />
+</p>
 ## What it does
 
 Claude Canvas adds a layer of annotation tooling to a Claude-style chat UI:
